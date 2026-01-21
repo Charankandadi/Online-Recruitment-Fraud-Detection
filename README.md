@@ -24,7 +24,7 @@ Flask
 Installation 📦
 Clone the repository:
 
-git clone https://github.com/ervenderr/Fraud-Detection-in-Job-Postings-using-NLP-and-Machine-Learning.git
+git clone https://github.com/Charankandadi/Fraud-Detection-in-Job-Postings-using-NLP-and-Machine-Learning.git
 cd Fraud-Detection-in-Job-Postings-using-NLP-and-Machine-Learning
 Install the required packages:
 
